@@ -10,3 +10,12 @@
 |Price| $30.99      | $16(annualy) | $0.87 |
 |plugin|no|yes|own build/purchase|
 website intergartion|yes|yes|own build|
+
+
+plugin feature support 
+- IDENTIFY VISITORS
+- TRACK WEBSITE EVENTS
+- ADD CUSTOMERS AUTOMATICALLY
+-  LINK ACTIONS TO CAMPAIGNS
+-  CART ABANDONMENT
+-  PRODUCT RECOMMENDATIONS
