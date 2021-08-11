@@ -4,7 +4,7 @@
  3. Ali Cloud 
 
 
-|| Mail Chimp 🐵      |Moosend 🐮          | Ali Cloud  |
+| | Mail Chimp 🐵      |Moosend 🐮          | Ali Cloud  |
 | ------------- || ------------- |:-------------:| -----:|
 |User| 2.5k|
 |Price| $30.99      | $16(annualy) | $0.87 |
